@@ -1,7 +1,7 @@
 Hi, My name is Brett Schwarz
 ======================================================================================================================================
 
-Cloud Architect | AWS Expert - 7x AWS Certified | Software Engineer
+Cloud Architect | AWS Expert - 7x AWS Certified | Architecting Modern, Scalable and Secure Cloud Solutions | Software Engineer
 -------------------------------------------------------------------
 
 Certified Senior Cloud Architect & Software Engineer with experience leading cross-functional teams, architecting large-scale cloud applications, and delivering end-to-end solutions. Proven record of architecture leadership, global team collaboration, and delivering cost-efficient cloud architectures.
