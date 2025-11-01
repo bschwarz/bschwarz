@@ -1,4 +1,4 @@
-Hi, My name is Brett Schwarz
+Hi, My name is Brett
 ======================================================================================================================================
 
 Cloud Architect | AWS Expert - 7x AWS Certified | Architecting Modern, Scalable and Secure Cloud Solutions | Software Engineer
